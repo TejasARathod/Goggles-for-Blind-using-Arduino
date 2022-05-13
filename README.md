@@ -1,0 +1,2 @@
+# Goggles-for-Blind-using-Arduino
+A hobby project aimed to develop skills in Arduino through real time application. This project serves as a replacement for the burden of carrying a stick around. Using an Arduino Pro Mini MCU, Ultrasonic Sensor, and a Buzzer I created these glasses that will sense the distance of an object in front and beep to alert the person that something is in front of them. Simple and inexpensive to make. 
